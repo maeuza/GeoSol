@@ -1,0 +1,73 @@
+package com.mezsoft.geosol.ui.theme
+
+
+import androidx.compose.ui.graphics.Color
+
+val Purple80        = Color(0xFFD0BCFF)
+val PurpleGrey80    = Color(0xFFCCC2DC)
+val Pink80          = Color(0xFFEFB8C8)
+val Purple40        = Color(0xFF6650a4)
+val Purple500       = Color(0xFF6200EE)
+val PurpleGrey40    = Color(0xFF625b71)
+val Pink40          = Color(0xFF7D5260)
+
+val Teal50         = Color(0xFF00A2E8)
+val Teal100         = Color(0xFF00C4FE) // background de sicodes
+val Teal200         = Color(0xFF03DAC5)
+val Teal300         = Color(0xFF00d4d9)  // cercano a teal50
+val Teal400         = Color(0xFF00B597)
+val Teal700         = Color(0xFF018786)
+val BluedarkSl      = Color(0xFF13223f)
+val BluelightSl     = Color(0xFF2F548E)
+val Bluesee         = Color(0xFF1565c0)
+val Bluesky         = Color(0xFF82C0FF)
+val Graylight       = Color(0xFFF2F2F2)
+val Blueprof        = Color(0xFF0d47a1)
+val Bluesplash      = Color(0xFF1D4A7A)
+val Lightskyblue    = Color(0xFF87cefa)
+val Blue1    = Color(0xFFBBDEFB)
+val Blue1_light    = Color(0xFFD4DEE6)
+val Blue2 = Color(0xFFB3E5FC)
+val Blue3   = Color(0xFFB2EBF2)
+val Blue_light_light    = Color(0xFFC5D3DD)
+val Bluesuperlight   = Color(0xFFE3F1F0)
+val Braysuperlight   = Color(0xE69AA7F5)
+val Steelblue   = Color(0xFF4682b4)
+val RedLight= Color(0xFFCD113B)
+val OrangeButton = Color(0xFFFF4303)
+val OrangeButtonDisable = Color(0xFFF79D58)
+val OrangeButtonDisable2 = Color(0xFFF7C258)
+val Mustard= Color(0xFFEFA30B)
+val MustardLight= Color(0xFFF7C258)
+val Marine= Color(0xFF066E91)
+val Marine1= Color(0xFF0E94C4)
+val Marine2=  Color(0xFF1D4A7A)
+val GreenApple = Color(0xFF7ED957)
+val GreenForte=Color(0xFF2C5504)
+val GreenForteLight=Color(0xFF6DDA00)
+val GrenLight = Color(0xFFB3CF16)
+val GreenLogo = Color(0xFF688511)
+val GreenForte1=Color(0xFF254902)
+val  Green1=Color(0xFF254902)
+val  Green2=Color(0xFF2C5900)
+val  Green3=Color(0xFF434336)
+val  Green4=Color(0xFF49423C)
+val  Green5=Color(0xFF5D7906)
+//val  Green6=Color(0xFF688511)
+val  Green7=Color(0xFF254902)
+val  Green8=Color(0xFF73CD9D)
+val  Green10=Color(0xFF758C8A)
+val  Green11=Color(0xFF9FDABC)
+val  Green12=Color(0xFFB3CF16)
+val  Green13=Color(0xFFc1c7c4)
+val  Green14=Color(0xFF92aa48)
+val  Green15=Color(0xFFc3d3a8)
+val  Green16=Color(0xFFb9bc95)
+val  Green17=Color(0xFF254902)
+val  Green18=Color(0xFF254902)
+val  Green19=Color(0xFF254902)
+
+
+
+
+
